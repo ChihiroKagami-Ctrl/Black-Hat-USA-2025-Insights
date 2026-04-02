@@ -30,7 +30,7 @@ I'm available for **small, fast-turnaround cybersecurity projects** (no large en
 - Security tool setup & configuration consulting
 
 ### Terms:
-- Small projects only, fast delivery (usually within 24-48h)
+- Small projects only, fast delivery (usually within 48-72h)
 - 100% legal & ethical work only (no hacking, no malware development, no unauthorized access)
 - Secure communication & full confidentiality
 
